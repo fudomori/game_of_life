@@ -4,7 +4,7 @@ Library used: ncurses. Don't forget to include when compiling.
 
 * ***Control:***
   
-***A - increase speed***
+***Z - increase speed***
 
 ***X - reduce speed***
 
